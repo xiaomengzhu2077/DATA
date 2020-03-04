@@ -1,0 +1,18 @@
+1.下载安装GIT
+          git                 ： https://git-scm.com/
+          编辑环境变量：y:\git\cmd
+2.github
+          新建repository
+          删除repository：code那一行最后的setting 拉到最下删除
+3.git设置
+          设置账号密码：git config --global user.name x****************7
+                                   git config --global user.email d**********************m                                                 
+           查看git设置： git config --list  
+4.git命令
+           git提交暂存区：git add git.txt
+                       查看提交日志：git log
+                       查看状态 ：git status
+           暂存区提交版本库：git commit -m '注释'
+           版本库提交:github:git push
+           
+	                                           
